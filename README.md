@@ -29,46 +29,61 @@
 
 <div align="center">
 
-  <!-- Центральные "глаза" — большие бейджи (самые важные навыки) -->
-  <div style="margin: 30px 0; display: flex; justify-content: center; gap: 28px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&color=ff7e5f" alt="Solidity" />
-    <img src="https://img.shields.io/badge/Circom-FF4F00?style=for-the-badge&logo=zcash&logoColor=white&color=feb47b" alt="Circom" />
-    <img src="https://img.shields.io/badge/OP%20Stack-FF0420?style=for-the-badge&logo=optimism&logoColor=white&color=ff7e5f" alt="OP Stack" />
+  <!-- ======= EYES (центральные 3 бейджа) ======= -->
+  <div>
+    <img alt="Solidity"
+      src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&color=ff7e5f"
+      height="46"
+      style="margin:10px 10px; border-radius:14px; box-shadow: 0 0 14px rgba(255,126,95,.75), 0 0 28px rgba(254,180,123,.55);" />
+    <img alt="Circom"
+      src="https://img.shields.io/badge/Circom-FF4F00?style=for-the-badge&logo=zcash&logoColor=white&color=feb47b"
+      height="46"
+      style="margin:10px 10px; border-radius:14px; box-shadow: 0 0 14px rgba(254,180,123,.80), 0 0 28px rgba(255,126,95,.45);" />
+    <img alt="OP Stack"
+      src="https://img.shields.io/badge/OP%20Stack-FF0420?style=for-the-badge&logo=optimism&logoColor=white&color=ff7e5f"
+      height="46"
+      style="margin:10px 10px; border-radius:14px; box-shadow: 0 0 14px rgba(255,126,95,.75), 0 0 28px rgba(254,180,123,.55);" />
   </div>
 
-  <!-- Ореол вокруг — все остальные навыки -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
-    <!-- Core languages -->
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=feb47b" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=ff7e5f" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=feb47b" alt="Python" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=ff7e5f" alt="Rust" />
+  <br/>
 
-    <!-- Frontend -->
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=ff7e5f" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=feb47b" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=ff7e5f" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=feb47b" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=ff7e5f" alt="CSS3" />
+  <!-- ======= HALO (ореол — кольца вокруг) ======= -->
+  <!-- Ring 1 (ближе всего к глазам) -->
+  <div>
+    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white&labelColor=feb47b" />
+    <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-FFF200?style=flat&logo=ethereum&logoColor=black&labelColor=feb47b" />
+    <img alt="Foundry" src="https://img.shields.io/badge/Foundry-bc4c00?style=flat&logo=foundry&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=ff7e5f" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=feb47b" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=ff7e5f" />
+  </div>
 
-    <!-- Backend / Fullstack -->
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=feb47b" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&labelColor=ff7e5f" alt="Express" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=feb47b" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=ff7e5f" alt="PostgreSQL" />
+  <!-- Ring 2 (шире) -->
+  <div style="margin-top:10px;">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=feb47b" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=feb47b" />
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=ff7e5f" />
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=feb47b" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&labelColor=ff7e5f" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=feb47b" />
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=ff7e5f" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white&labelColor=feb47b" />
+  </div>
 
-    <!-- Web3 дополнительные -->
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white&labelColor=feb47b" alt="Ethereum" />
-    <img src="https://img.shields.io/badge/Web3-000000?style=flat&logo=web3&logoColor=white&labelColor=ff7e5f" alt="Web3" />
-    <img src="https://img.shields.io/badge/Hardhat-FFF200?style=flat&logo=ethereum&logoColor=black&labelColor=feb47b" alt="Hardhat" />
-    <img src="https://img.shields.io/badge/Foundry-bc4c00?style=flat&logo=foundry&logoColor=white&labelColor=ff7e5f" alt="Foundry" />
-
-    <!-- DevOps -->
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=feb47b" alt="Docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=ff7e5f" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white&labelColor=feb47b" alt="Terraform" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&labelColor=ff7e5f" alt="AWS" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&labelColor=feb47b" alt="GitHub Actions" />
+  <!-- Ring 3 (внешнее сияние: DevOps/Cloud/Tooling) -->
+  <div style="margin-top:10px;">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=feb47b" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white&labelColor=feb47b" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&labelColor=ff7e5f" />
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&labelColor=feb47b" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=feb47b" />
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white&labelColor=feb47b" />
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Testing" src="https://img.shields.io/badge/Testing-Jest%20%2F%20Playwright?style=flat&logo=testinglibrary&logoColor=white&labelColor=feb47b" />
   </div>
 
 </div>
