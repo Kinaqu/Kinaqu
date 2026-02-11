@@ -1,10 +1,4 @@
 <div align="center">
-  <!-- Dynamic Greeting & Header -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://thumbs.dreamstime.com/b/abstract-background-displays-orange-glowing-light-digital-network-structure-dots-lines-tech-backdrop-connection-system-great-421312834.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="https://thumbs.dreamstime.com/b/abstract-background-displays-orange-glowing-light-digital-network-structure-dots-lines-tech-backdrop-connection-system-great-421312834.jpg">
-    <img src="https://thumbs.dreamstime.com/b/abstract-background-displays-orange-glowing-light-digital-network-structure-dots-lines-tech-backdrop-connection-system-great-421312834.jpg" alt="Soft orange glowing network banner" width="100%" style="border-radius: 10px;">
-  </picture>
   <br>
   <h1 align="center">Hi there! 👋 I'm <a href="https://github.com/Kinaqu" target="_blank">Kinaqu</a></h1>
   <h3 align="center">Fullstack Developer + Web3 Developer 🚀</h3>
@@ -77,47 +71,6 @@
 
 ---
 
-## 🛠 Featured Projects
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="50%" style="border: none; padding: 10px;">
-      <a href="https://github.com/Kinaqu/web3-stack-lab">
-        <img src="https://img.freepik.com/free-photo/beautiful-office-space-cartoon-style_23-2151043352.jpg?semt=ais_hybrid&w=740&q=80" alt="Anime-style cozy coding workspace at sunset" style="border-radius: 10px; width: 100%; object-fit: cover;">
-      </a>
-      <br><br>
-      <b><a href="https://github.com/Kinaqu/web3-stack-lab">🔗 web3-stack-lab</a></b>
-      <br>
-      <i>Main Project | L2 Network on OP Stack</i>
-      <br>
-      Building a Layer 2 network leveraging the **OP Stack**, with plans to integrate **2 Zero-Knowledge Proof (ZKP)** modules. Focuses on scalability and privacy.
-    </td>
-    <td align="center" width="50%" style="vertical-align: top; border: none; padding: 10px;">
-      <div style="margin-bottom: 25px;">
-        <a href="https://github.com/Kinaqu/zk-market-resolution">
-          <img src="https://image.lexica.art/md2_webp/04154f54-188b-4a94-9706-012b1b0b1cb8" alt="Anime girl coding in warm orange-lit room" style="border-radius: 10px; width: 100%; height: 150px; object-fit: cover;">
-        </a>
-        <br>
-        <b><a href="https://github.com/Kinaqu/zk-market-resolution">🔗 zk-market-resolution</a></b>
-        <br>
-        <i>First ZKP Project | Circom</i>
-        <br>
-        Basic implementation of prediction market resolution logic using **Circom** circuits, inspired by Polymarket's math.
-      </div>
-      <div>
-        <a href="https://github.com/Kinaqu/Ticket-buying-site">
-          <img src="https://thumbs.dreamstime.com/b/anime-style-illustration-young-man-working-his-computer-futuristic-neon-lit-room-sits-focused-wearing-hoodie-408392059.jpg" alt="Anime-style developer in neon tech setup" style="border-radius: 10px; width: 100%; height: 150px; object-fit: cover;">
-        </a>
-        <br>
-        <b><a href="https://github.com/Kinaqu/Ticket-buying-site">🔗 Ticket-buying-site</a></b>
-        <br>
-        <i>Fullstack | MERN Stack</i>
-        <br>
-        A complete ticket purchasing platform built with **MongoDB, Express, React, and Node.js**.
-      </div>
-    </td>
-  </tr>
-</table>
 
 <br>
 
