@@ -93,10 +93,6 @@
 ## <span style="color: #feb47b;">📊 GitHub Stats</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinaqu&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=3600&title_color=feb47b&text_color=ffffff&icon_color=ff7e5f&bg_color=0d1117&hide_border=true&custom_title=GitHub%20Stats" alt="Kinaqu's Github Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinaqu&layout=compact&cache_seconds=3600&title_color=feb47b&text_color=ffffff&icon_color=ff7e5f&bg_color=0d1117&hide_border=true" alt="Top Languages" height="165" />
-</div>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinaqu&theme=radical&hide_border=true&cache_seconds=3600&ring=ff7e5f&fire=feb47b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=feb47b&sideLabels=feb47b&background=0d1117" alt="GitHub Streak" height="165" />
 </div>
 
