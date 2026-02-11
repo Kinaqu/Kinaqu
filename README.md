@@ -1,10 +1,4 @@
 <div align="center">
-  <!-- Dynamic Greeting & Header -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://thumbs.dreamstime.com/b/abstract-background-displays-orange-glowing-light-digital-network-structure-dots-lines-tech-backdrop-connection-system-great-421312834.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="https://thumbs.dreamstime.com/b/abstract-background-displays-orange-glowing-light-digital-network-structure-dots-lines-tech-backdrop-connection-system-great-421312834.jpg">
-    <img src="https://thumbs.dreamstime.com/b/abstract-background-displays-orange-glowing-light-digital-network-structure-dots-lines-tech-backdrop-connection-system-great-421312834.jpg" alt="Soft orange glowing network banner" width="100%" style="border-radius: 10px;">
-  </picture>
 
   <br>
 
@@ -72,7 +66,6 @@
     <td align="center" width="50%" style="vertical-align: top; border: none; padding: 10px;">
       <div style="margin-bottom: 25px;">
         <a href="https://github.com/Kinaqu/zk-market-resolution">
-          <img src="https://gamespace.com/wp-content/uploads/2024/06/Honkai-Star-Rail-Teases-Version-2.4-Characters-Meet-Yunli-780x482.png" alt="Anime character in dynamic orange blockchain-inspired scene" style="border-radius: 10px; width: 100%; height: 160px; object-fit: cover; box-shadow: 0 4px 8px rgba(255, 126, 95, 0.3);">
         </a>
         <br>
         <b><a href="https://github.com/Kinaqu/zk-market-resolution" style="color: #feb47b; text-decoration: none;">🔗 zk-market-resolution</a></b>
