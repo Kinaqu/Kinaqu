@@ -60,7 +60,7 @@
       <br>
       <i>Main Project | L2 Network on OP Stack</i>
       <br>
-      Building a Layer 2 network leveraging the **OP Stack**, with plans to integrate **2 Zero-Knowledge Proof (ZKP)** modules. Focuses on scalability and privacy.
+      Building a Layer 2 network leveraging the OP Stack, with plans to integrate 2 Zero-Knowledge Proof (ZKP) modules. Focuses on scalability and privacy.
     </td>
     <td align="center" width="50%" style="vertical-align: top; border: none; padding: 10px;">
       <div style="margin-bottom: 25px;">
@@ -71,7 +71,7 @@
         <br>
         <i>First ZKP Project | Circom</i>
         <br>
-        Basic implementation of prediction market resolution logic using **Circom** circuits, inspired by Polymarket's math.
+        Basic implementation of prediction market resolution logic using Circom circuits, inspired by Polymarket's math.
       </div>
       <div>
         <a href="https://github.com/Kinaqu/Ticket-buying-site">
@@ -81,7 +81,7 @@
         <br>
         <i>Fullstack | MERN Stack</i>
         <br>
-        A complete ticket purchasing platform built with **MongoDB, Express, React, and Node.js**.
+        A complete ticket purchasing platform built with MongoDB, Express, React, and Node.js.
       </div>
     </td>
   </tr>
