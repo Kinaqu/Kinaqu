@@ -1,13 +1,4 @@
 <div align="center">
-  <!-- Dynamic Greeting & Header -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://thumbs.dreamstime.com/b/abstract-background-displays-orange-glowing-light-digital-network-structure-dots-lines-tech-backdrop-connection-system-great-421312834.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="https://thumbs.dreamstime.com/b/abstract-background-displays-orange-glowing-light-digital-network-structure-dots-lines-tech-backdrop-connection-system-great-421312834.jpg">
-    <img src="https://thumbs.dreamstime.com/b/abstract-background-displays-orange-glowing-light-digital-network-structure-dots-lines-tech-backdrop-connection-system-great-421312834.jpg" alt="Soft orange glowing network banner" width="100%" style="border-radius: 10px;">
-  </picture>
-
-  <br>
-
   <h1 align="center">Hi there! 👋 I'm <a href="https://github.com/Kinaqu" target="_blank">Kinaqu</a></h1>
   <h3 align="center">Fullstack Developer + Web3 Developer 🚀</h3>
 
