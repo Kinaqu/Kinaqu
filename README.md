@@ -25,55 +25,71 @@
 
 <br>
 
-## ⚡ Tech Stack Halo
+## ⚡ Tech Stack & Skills
+
 <div align="center">
-  <svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#ff7e5f" stop-opacity="0.4" />
-        <stop offset="100%" stop-color="#ff7e5f" stop-opacity="0" />
-      </radialGradient>
-    </defs>
-    <circle cx="300" cy="200" r="120" fill="url(#glow)" />
 
-    <g>
-      <image x="275" y="20"  width="50" href="https://cdn.simpleicons.org/docker/2496ED" />
-      <image x="420" y="60"  width="45" href="https://cdn.simpleicons.org/kubernetes/326CE5" />
-      <image x="500" y="180" width="45" href="https://cdn.simpleicons.org/amazonwebservices/232F3E" />
-      <image x="420" y="300" width="45" href="https://cdn.simpleicons.org/terraform/7B42BC" />
-      <image x="275" y="340" width="45" href="https://cdn.simpleicons.org/githubactions/2088FF" />
-      <image x="130" y="300" width="45" href="https://cdn.simpleicons.org/postgresql/4169E1" />
-      <image x="50"  y="180" width="45" href="https://cdn.simpleicons.org/mongodb/47A248" />
-      <image x="130" y="60"  width="45" href="https://cdn.simpleicons.org/rust/000000" />
-    </g>
+  <!-- ======= EYES (центральные 3 бейджа) ======= -->
+  <div>
+    <img alt="Solidity"
+      src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&color=ff7e5f"
+      height="46"
+      style="margin:10px 10px; border-radius:14px; box-shadow: 0 0 14px rgba(255,126,95,.75), 0 0 28px rgba(254,180,123,.55);" />
+    <img alt="Circom"
+      src="https://img.shields.io/badge/Circom-FF4F00?style=for-the-badge&logo=zcash&logoColor=white&color=feb47b"
+      height="46"
+      style="margin:10px 10px; border-radius:14px; box-shadow: 0 0 14px rgba(254,180,123,.80), 0 0 28px rgba(255,126,95,.45);" />
+    <img alt="OP Stack"
+      src="https://img.shields.io/badge/OP%20Stack-FF0420?style=for-the-badge&logo=optimism&logoColor=white&color=ff7e5f"
+      height="46"
+      style="margin:10px 10px; border-radius:14px; box-shadow: 0 0 14px rgba(255,126,95,.75), 0 0 28px rgba(254,180,123,.55);" />
+  </div>
 
-    <g>
-      <image x="220" y="100" width="40" href="https://cdn.simpleicons.org/typescript/3178C6" />
-      <image x="340" y="100" width="40" href="https://cdn.simpleicons.org/javascript/F7DF1E" />
-      <image x="380" y="200" width="40" href="https://cdn.simpleicons.org/react/61DAFB" />
-      <image x="340" y="280" width="40" href="https://cdn.simpleicons.org/nextdotjs/000000" />
-      <image x="220" y="280" width="40" href="https://cdn.simpleicons.org/nodedotjs/339933" />
-      <image x="180" y="200" width="40" href="https://cdn.simpleicons.org/python/3776AB" />
-    </g>
+  <br/>
 
-    <a href="#">
-      <rect x="210" y="175" width="180" height="50" rx="10" fill="#1a1a1a" stroke="#ff7e5f" stroke-width="2" />
-      <image x="220" y="185" width="30" href="https://cdn.simpleicons.org/solidity/white" />
-      <image x="285" y="185" width="30" href="https://cdn.simpleicons.org/zcash/feb47b" /> <image x="350" y="185" width="30" href="https://cdn.simpleicons.org/optimism/FF0420" />
-      <text x="300" y="240" fill="white" font-family="Arial" font-size="12" text-anchor="middle" font-weight="bold">SOLIDITY | CIRCOM | OP STACK</text>
-    </a>
-  </svg>
+  <!-- ======= HALO (ореол — кольца вокруг) ======= -->
+  <!-- Ring 1 (ближе всего к глазам) -->
+  <div>
+    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white&labelColor=feb47b" />
+    <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-FFF200?style=flat&logo=ethereum&logoColor=black&labelColor=feb47b" />
+    <img alt="Foundry" src="https://img.shields.io/badge/Foundry-bc4c00?style=flat&logo=foundry&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=ff7e5f" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=feb47b" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=ff7e5f" />
+  </div>
+
+  <!-- Ring 2 (шире) -->
+  <div style="margin-top:10px;">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=feb47b" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=feb47b" />
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=ff7e5f" />
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=feb47b" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&labelColor=ff7e5f" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=feb47b" />
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=ff7e5f" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white&labelColor=feb47b" />
+  </div>
+
+  <!-- Ring 3 (внешнее сияние: DevOps/Cloud/Tooling) -->
+  <div style="margin-top:10px;">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=feb47b" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white&labelColor=feb47b" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&labelColor=ff7e5f" />
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&labelColor=feb47b" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=feb47b" />
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white&labelColor=feb47b" />
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white&labelColor=ff7e5f" />
+    <img alt="Testing" src="https://img.shields.io/badge/Testing-Jest%20%2F%20Playwright?style=flat&logo=testinglibrary&logoColor=white&labelColor=feb47b" />
+  </div>
+
 </div>
 
 <br>
 
-### 🛠 Мой арсенал подробнее:
-- **Web3:** Foundry, Hardhat, Ethers.js, Wagmi, ZK Proofs.
-- **Frontend:** TailwindCSS, Framer Motion, Redux Toolkit.
-- **Backend:** Express, Prisma, Redis, WebSockets.
-- **Cloud/DevOps:** AWS (EC2/S3), Docker Compose, CI/CD.
-
-<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=feb47b,ff7e5f&height=100&section=footer" width="100%" alt="Footer Wave"/>
 </p>
