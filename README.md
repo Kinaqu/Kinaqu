@@ -27,18 +27,18 @@
 
 ## ⚡ Tech Stack & Skills
 
-<div align="center" style="position: relative; max-width: 800px; margin: 0 auto;">
+<div align="center">
 
-  <!-- Центральные "глаза" / ядро (большие бейджи) -->
-  <div style="margin: 20px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Центральные "глаза" — большие бейджи -->
+  <div style="margin: 25px 0; display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&color=ff7e5f" alt="Solidity" />
     <img src="https://img.shields.io/badge/Circom-FF4F00?style=for-the-badge&logo=zcash&logoColor=white&color=feb47b" alt="Circom" />
-    <img src="https://img.shields.io/badge/OP_Stack-FF0420?style=for-the-badge&logo=optimism&logoColor=white&color=ff7e5f" alt="OP Stack" />
+    <img src="https://img.shields.io/badge/OP%20Stack-FF0420?style=for-the-badge&logo=optimism&logoColor=white&color=ff7e5f" alt="OP Stack" />
   </div>
 
-  <!-- Ореол / сияние вокруг (все остальные навыки) -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 720px; margin: auto;">
-    <!-- Core languages -->
+  <!-- Ореол / сияние вокруг -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 780px; margin: 0 auto;">
+    <!-- Core / Языки -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=feb47b" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=ff7e5f" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=feb47b" alt="Python" />
