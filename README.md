@@ -76,7 +76,6 @@
       </div>
       <div>
         <a href="https://github.com/Kinaqu/Ticket-buying-site">
-          <img src="https://thumbs.dreamstime.com/b/futuristic-control-roomcommand-center-high-tech-desk-multiple-screens-displaying-vibrant-colors-computer-monitors-keyboards-350776782.jpg" alt="Neon orange futuristic tech setup with multiple screens" style="border-radius: 10px; width: 100%; height: 160px; object-fit: cover; box-shadow: 0 4px 8px rgba(254, 180, 123, 0.3);">
         </a>
         <br>
         <b><a href="https://github.com/Kinaqu/Ticket-buying-site" style="color: #feb47b; text-decoration: none;">🔗 Ticket-buying-site</a></b>
