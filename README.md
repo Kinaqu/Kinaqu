@@ -54,7 +54,6 @@
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Kinaqu/web3-stack-lab">
-        <img src="https://previews.123rf.com/images/thvideo/thvideo2303/thvideo230375610/200358891-tidy-lofi-desk-is-chaotic-manga-style-animation-with-an-empty-interior-colorful-low-fi-study-desk.jpg" alt="Soft orange anime coding desk at autumn sunset" style="border-radius: 10px; width: 100%; object-fit: cover; box-shadow: 0 4px 8px rgba(254, 180, 123, 0.3);">
       </a>
       <br><br>
       <b><a href="https://github.com/Kinaqu/web3-stack-lab" style="color: #feb47b; text-decoration: none;">🔗 web3-stack-lab</a></b>
