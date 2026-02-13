@@ -8,7 +8,7 @@
     </a>
   </p>
   <p align="center">
-    <i>"Experimenting with DevOps and AI programming. Daily hobbies: anime/manga 🌸"</i>
+    <i>"Experimenting with DevOps and AI programming."</i>
   </p>
   <div align="center">
     <a href="https://t.me/glutski" target="_blank">
