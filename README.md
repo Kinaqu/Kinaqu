@@ -4,8 +4,7 @@
 
 Full-Stack Web Developer
 
-Building web apps, APIs and deploying them to production.
-
+Open to freelance work
 </div>
 
 ---
