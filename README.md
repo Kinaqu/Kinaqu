@@ -17,9 +17,6 @@ JavaScript • React • Node.js • REST APIs • Docker • VPS
 
 ### 📦 Projects
 
-**Workout Manager**  
-Full-stack workout tracking app with adaptive training program
-
 **Menu Generator API**  
 Backend API for automated meal planning
 
