@@ -15,15 +15,6 @@ JavaScript • React • Node.js • REST APIs • Docker • VPS
 
 ---
 
-### 📦 Projects
-
-**Menu Generator API**  
-Backend API for automated meal planning
-
-**Ticket Booking Website**  
-MERN stack web application
-
----
 
 ### 📫 Contact
 
