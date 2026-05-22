@@ -4,7 +4,7 @@
 
 Full-Stack Web Developer
 
-Open to freelance work
+Open to work
 </div>
 
 ---
